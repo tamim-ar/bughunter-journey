@@ -1,3 +1,5 @@
+# DAY 1
+
 # What is Quality
 Quality is extremely hard to define, and it is simply stated: “Fit for use or purpose.” It is all about meeting the needs and expectations of customers concerning the functionality, design, reliability, durability, & price of the product.
 
