@@ -62,5 +62,3 @@ Software testing models define the approach and process followed in software tes
 📌 **Description:** No formal process, all development happens at once, and testing is done later.  
 📌 **Best For:** Small projects with undefined requirements.  
 📌 **Drawback:** High risk of failure due to lack of structure.  
-
-Would you like a comparison table or a recommendation for your project? 🚀
