@@ -6,3 +6,6 @@ It's the process of planning, creating, testing, and deploying software. It invo
 
 ## 3. STLC (Software Testing Life Cycle)
 It's the process of testing software to ensure it works properly. It includes phases like requirement analysis, test planning, test case development, test execution, defect reporting, and test closure.
+
+## 4. What is software?
+Software is basically a set of instructions or commands that tells a computer what to do.
