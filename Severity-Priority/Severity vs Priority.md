@@ -13,10 +13,22 @@
 
 ---
 
-### 💡 Quick Tip:
+### 💡 A Defect can be:
 
-- A defect can be:
-  - **High Severity, Low Priority:** Critical function broken in a rarely used module.
-  - **Low Severity, High Priority:** Minor UI issue on a major marketing page.
+- **High Severity, High Priority**  
+  A critical defect in a core feature with no workaround—must be fixed immediately.  
+  *Example:* Production checkout flow crashes, blocking all orders.  
+
+- **High Severity, Low Priority**  
+  A show‑stopper in a seldom‑used or non‑critical area—can defer until the next cycle.  
+  *Example:* Reporting dashboard in the admin portal fails, but customers aren’t affected.  
+
+- **Low Severity, High Priority**  
+  A minor/UI glitch in a high‑visibility spot—business demands a quick fix.  
+  *Example:* Typo in the homepage headline or broken link in a marketing email.  
+
+- **Low Severity, Low Priority**  
+  A trivial defect with no real impact—can be scheduled into a future backlog.  
+  *Example:* Slight misalignment of an icon on the user settings page.
 
 ---
