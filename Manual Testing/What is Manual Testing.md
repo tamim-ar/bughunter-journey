@@ -1,77 +1,27 @@
-## 🛠️ What Is Manual Testing?
-
-**Manual Testing** is the process of manually executing test cases without using any automation tools or scripts. Testers act as end users, interacting with the application’s UI, functionality, and workflows to identify defects.
+# What is Manual Testing?
 
 ---
 
-### 🔍 Key Characteristics
-
-- **Human-driven**: Testers follow predefined test cases step by step.
-- **Exploratory**: Allows intuitive discovery of issues through ad‑hoc and exploratory techniques.
-- **No scripting**: Relies on human observation, not on automated scripts or test frameworks.
-- **Flexible**: Easily adapts to small changes in requirements or UI without rewriting code.
+Manual Testing is a type of software testing in which test cases are executed manually by a tester without using any automated tools. The purpose of Manual Testing is to identify the bugs, issues, and defects in the software application. Manual software testing is the most primitive technique of all testing types and it helps to find critical bugs in the software application.
 
 ---
 
-### 🔁 Manual Testing Process
-
-1. **Requirement Analysis**  
-   Understand functional and non‑functional requirements to identify what needs testing.
-
-2. **Test Planning**  
-   Define scope, objectives, resources, and schedule for manual test activities.
-
-3. **Test Case Design**  
-   Write clear, detailed test cases with:  
-   - Preconditions  
-   - Input data  
-   - Execution steps  
-   - Expected results
-
-4. **Test Environment Setup**  
-   Prepare the hardware, software, network, and database configurations.
-
-5. **Test Execution**  
-   Manually run each test case, observe actual behavior, and compare it against expected results.
-
-6. **Defect Reporting**  
-   Log any deviations as defects in a bug‑tracking tool, attaching steps to reproduce and screenshots.
-
-7. **Retesting & Regression**  
-   Once defects are fixed, retest to confirm the fix and perform regression testing on impacted areas.
-
-8. **Test Closure**  
-   Summarize test activities, report coverage and defects, and provide recommendations.
+Any new application must be manually tested before its testing can be automated. Manual Software Testing requires more effort but is necessary to check automation feasibility. Manual Testing concepts does not require knowledge of any testing tool. One of the Software Testing Fundamental is “100% Automation is not possible“. This makes Manual Testing imperative.
 
 ---
 
-### 🔧 Techniques in Manual Testing
-
-- **Smoke Testing** – Quick check of core functionality after a build.  
-- **Sanity Testing** – Focused validation of specific bug fixes or features.  
-- **Exploratory Testing** – Ad‑hoc testing guided by tester experience.  
-- **Usability Testing** – Assess ease of use and user experience.  
-- **Ad‑Hoc Testing** – Unstructured, creative testing without formal test cases.
+The key concept of manual testing is to ensure that the application is error free and it is working in conformance to the specified functional requirements.
 
 ---
 
-### ✅ Pros & Cons
-
-| **Pros**                                          | **Cons**                                           |
-|---------------------------------------------------|----------------------------------------------------|
-| ✔ Intuitive, uncovers UX and workflow issues      | ✖ Time‑consuming for large or repetitive test suites |
-| ✔ No need for automation tools or scripting skills | ✖ Prone to human error and inconsistency           |
-| ✔ Quick to start for small or evolving features   | ✖ Difficult to scale and maintain over time        |
+Test Suites or cases, are designed during the testing phase and should have 100% test coverage.
 
 ---
 
-### 📈 When to Use Manual Testing
-
-- **Early stages** where requirements are volatile  
-- **Usability and UX reviews** requiring human judgment  
-- **Ad‑hoc or exploratory scenarios** without clear requirements  
-- **Short‑lived projects** where automation setup overhead isn’t justified  
+It also makes sure that reported defects are fixed by developers and re-testing has been performed by testers on the fixed defects.
 
 ---
 
-Manual testing remains a foundational QA practice, ensuring that human insight complements automated checks to deliver a robust, user‑friendly product.
+Basically, this testing checks the quality of the system and delivers bug-free product to the customer.
+
+---
